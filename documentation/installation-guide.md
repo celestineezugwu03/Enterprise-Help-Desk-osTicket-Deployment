@@ -24,7 +24,7 @@ The Ubuntu server was updated before installing the application stack.
 ```bash
 sudo apt update
 sudo apt upgrade -y
-2. Install Apache
+## 2. Install Apache
 
 Apache was installed to provide the web server responsible for hosting osTicket.
 

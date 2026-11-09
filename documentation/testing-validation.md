@@ -128,7 +128,7 @@ Screenshots documenting the osTicket configuration and testing process are store
 |---|---|
 | `support-teams-created.png` | Level 1 Support and Level 2 Support teams |
 | `ticket-created.png` | Submitted password reset ticket |
-| `ticket-assignment-and-response.png` | Ticket assignment, internal note, and requester response |
+| `ticket-assignment-and-response.png` `ticketclosed.png` | Ticket assignment, internal note, and requester response |
 
 ## 6. Conclusion
 

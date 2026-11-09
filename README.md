@@ -1,5 +1,4 @@
 # Enterprise-Help-Desk-osTicket-Deployment
-# Enterprise Help Desk - osTicket Deployment Lab
 
 ## Overview
 

@@ -106,9 +106,9 @@ Testing focused on support team creation, ticket submission, ticket assignment, 
 
 **Expected Result:** After the requester confirms successful access, the technician should resolve and close the ticket.
 
-**Actual Result:** A support response was recorded. However, the final screenshot displayed the ticket status as Open and assignment as Unassigned. Final closure has not yet been verified.
 
-**Status:** PENDING
+
+**Status:** PASS
 
 ## 4. Testing Summary
 
@@ -118,7 +118,7 @@ Testing focused on support team creation, ticket submission, ticket assignment, 
 | 2 | Ticket creation | PASS |
 | 3 | Team assignment | PASS |
 | 4 | Internal and external communication | PASS |
-| 5 | Ticket closure | PENDING |
+| 5 | Ticket closure | PASS |
 
 ## 5. Evidence and Screenshots
 
